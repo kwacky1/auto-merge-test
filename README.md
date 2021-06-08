@@ -1,3 +1,3 @@
 # auto-merge-test
 
-merge me
+All the PRs are broken
